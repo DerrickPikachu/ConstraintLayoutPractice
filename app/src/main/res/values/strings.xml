@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ConstraintLayoutPractice</string>
+    <string name="first_name">姓:</string>
+    <string name="last_name">名:</string>
+    <string name="phone_number">電話:</string>
+    <string name="first_name_hint">請輸入姓氏</string>
+    <string name="last_name_hint">請輸入名稱</string>
+    <string name="phone_hint">(02)12345678</string>
 </resources>
